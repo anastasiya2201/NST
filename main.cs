@@ -7,7 +7,7 @@ static void Main(string[] args)
 {
 System.Console.WriteLine("Enter your name: ");
 string name = Console.ReadLine();
-System.Console.WriteLine($"Hello{name}!");
+System.Console.WriteLine($"Hello, {name}!");
 }
 }
 }
